@@ -15,10 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Nice way to show!
-
-Generally, data analysts may a lot more time connecting to business stakeholders, while data scientists are more coding intensive. Data engineers usually have less focus on machine learning/algorithms-related tasks. The titles can be interchanged in some job descriptions, and responsibilities also depend on the industry and project. But it's still quite helpful when we plan the path.
-
-Illustration Credit Kevin Rosamont Prombo
-
-*For more resources and learning materials regarding AI, ML, and Data Science, please check my previous posts. Alex Wang
